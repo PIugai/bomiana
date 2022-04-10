@@ -1,20 +1,16 @@
 {
     "items": [
         {
-            "name": "test@example.com",
-            "link": "mailto:test@example.com"
+            "name": "anastasiadobrogost@my.unt.edu",
+            "link": "mailto:anastasiadobrogost@my.unt.edu"
+        },
+        {
+            "name": "LinkedIn",
+            "link": "https://linkedin.com/in/anastasiadobrogost"
         },
         {
             "name": "Twitter",
-            "link": "https://twitter.com/…"
-        },
-        {
-            "name": "GitHub",
-            "link": "https://github.com/…"
-        },
-        {
-            "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "link": "https://twitter.com/bomi_ana"
         }
     ]
 }
